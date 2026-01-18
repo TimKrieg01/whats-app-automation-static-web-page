@@ -1,0 +1,88 @@
+{
+    "common": {
+        "signIn": "Anmelden",
+        "getStarted": "Loslegen",
+        "loading": "Lädt...",
+        "error": "Fehler",
+        "goBack": "Zurück",
+        "history": "Verlauf",
+        "profile": "Profil",
+        "settings": "Einstellungen",
+        "signOut": "Abmelden",
+        "admin": "Admin"
+    },
+    "marketing": {
+        "hero": {
+            "title": "Intelligente Automatisierung",
+            "subtitle": "für Note Buddy",
+            "description": "Skalieren Sie Ihre Geschäftsbeziehungen mit intelligenter, automatisierter Nachrichtenübermittlung. Erreichen Sie Kunden dort, wo sie sind, sofort."
+        },
+        "buttons": {
+            "trial": "Kostenlose Testversion",
+            "demo": "Demo ansehen"
+        },
+        "features": {
+            "fast": {
+                "title": "Blitzschnell",
+                "description": "Automatisierte Antworten, die in Millisekunden ausgelöst werden und Ihre Kunden binden."
+            },
+            "secure": {
+                "title": "Sicher & Privat",
+                "description": "Sicherheit auf Unternehmensebene, die sicherstellt, dass Ihre Geschäftsgespräche vertraulich bleiben."
+            },
+            "routing": {
+                "title": "Intelligentes Routing",
+                "description": "Automatisches Routing eingehender Anfragen an die richtige Abteilung oder den AI-Agenten."
+            }
+        },
+        "stats": {
+            "messages": "Nachrichten/Tag",
+            "businesses": "Unternehmen",
+            "uptime": "Verfügbarkeit",
+            "support": "Support"
+        },
+        "footer": {
+            "rights": "Note Buddy Automation Solutions. Alle Rechte vorbehalten."
+        }
+    },
+    "login": {
+        "title": "Anmelden",
+        "subtitle": "Greifen Sie auf Ihre Konsole zu",
+        "emailLabel": "E-Mail-Adresse",
+        "passwordLabel": "Passwort",
+        "button": "Anmelden",
+        "footer": "Eingeschränkter Zugang. Nur manuelle Anmeldungen."
+    },
+    "dashboard": {
+        "title": "Gesprächsverlauf",
+        "subtitle": "Anzeigen und Verwalten Ihrer letzten automatisierten Interaktionen.",
+        "loading": "Lade Ihre Gespräche...",
+        "error": "Gesprächsaufzeichnungen konnten nicht geladen werden",
+        "record": "Aufzeichnung",
+        "viewLogs": "Vollständige Protokolle anzeigen"
+    },
+    "profile": {
+        "title": "Mein Profil",
+        "subtitle": "Verwalten Sie Ihre Kontoeinstellungen und Ihr Abonnement.",
+        "personalInfo": {
+            "title": "Persönliche Informationen",
+            "email": "E-Mail-Adresse",
+            "phone": "Zugehörige Telefonnummer"
+        },
+        "security": {
+            "title": "Sicherheit",
+            "description": "Fordern Sie einen Link zum Zurücksetzen des Passworts an Ihre registrierte E-Mail-Adresse an.",
+            "button": "Passwort zurücksetzen",
+            "success": "E-Mail zum Zurücksetzen des Passworts gesendet! Bitte prüfen Sie Ihren Posteingang."
+        },
+        "subscription": {
+            "title": "Abonnement",
+            "plan": "Aktueller Plan",
+            "active": "Aktiv",
+            "billing": "Nächste Abrechnung",
+            "manage": "Abrechnung verwalten"
+        },
+        "role": "Ihre Rolle",
+        "adminRole": "Administrator"
+    }
+}

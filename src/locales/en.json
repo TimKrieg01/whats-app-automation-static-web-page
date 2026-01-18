@@ -1,0 +1,88 @@
+{
+    "common": {
+        "signIn": "Sign In",
+        "getStarted": "Get Started",
+        "loading": "Loading...",
+        "error": "Error",
+        "goBack": "Go Back",
+        "history": "History",
+        "profile": "Profile",
+        "settings": "Settings",
+        "signOut": "Sign Out",
+        "admin": "Admin"
+    },
+    "marketing": {
+        "hero": {
+            "title": "Intelligent Automation",
+            "subtitle": "for Note Buddy",
+            "description": "Scale your business relationships with intelligent, automated messaging. Connect with customers where they are, instantly."
+        },
+        "buttons": {
+            "trial": "Start Free Trial",
+            "demo": "View Demo"
+        },
+        "features": {
+            "fast": {
+                "title": "Lightning Fast",
+                "description": "Automated responses that trigger in milliseconds, keeping your customers engaged."
+            },
+            "secure": {
+                "title": "Secure & Private",
+                "description": "Enterprise-grade security ensuring your business conversations remain confidential."
+            },
+            "routing": {
+                "title": "Smart Routing",
+                "description": "Automatically route incoming queries to the right department or AI agent."
+            }
+        },
+        "stats": {
+            "messages": "Messages/day",
+            "businesses": "Businesses",
+            "uptime": "Uptime",
+            "support": "Support"
+        },
+        "footer": {
+            "rights": "Note Buddy Automation Solutions. All rights reserved."
+        }
+    },
+    "login": {
+        "title": "Sign In",
+        "subtitle": "Access your console",
+        "emailLabel": "Email Address",
+        "passwordLabel": "Password",
+        "button": "Sign In",
+        "footer": "Limited access. Manual signups only."
+    },
+    "dashboard": {
+        "title": "Conversation History",
+        "subtitle": "View and manage your recent automated interactions.",
+        "loading": "Loading your conversations...",
+        "error": "Failed to load conversation records",
+        "record": "Record",
+        "viewLogs": "View Full Logs"
+    },
+    "profile": {
+        "title": "My Profile",
+        "subtitle": "Manage your account settings and subscription.",
+        "personalInfo": {
+            "title": "Personal Information",
+            "email": "Email Address",
+            "phone": "Associated Phone"
+        },
+        "security": {
+            "title": "Security",
+            "description": "Request a password reset link to be sent to your registered email address.",
+            "button": "Reset Password",
+            "success": "Password reset email sent! Please check your inbox."
+        },
+        "subscription": {
+            "title": "Subscription",
+            "plan": "Current Plan",
+            "active": "Active",
+            "billing": "Next Billing",
+            "manage": "Manage Billing"
+        },
+        "role": "Your Role",
+        "adminRole": "Administrator"
+    }
+}
